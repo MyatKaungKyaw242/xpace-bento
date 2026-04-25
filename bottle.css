@@ -177,7 +177,7 @@ color: white;
 .right-container {
     display: grid;
     grid-template-columns: minmax(180px,1fr) minmax(90px,0.4fr) minmax(90px,0.4fr) minmax(180px,1fr);
-    grid-template-rows: minmax(200px, 1fr) minmax(180px, 1fr) minmax(180px, 1fr);
+    grid-template-rows:  minmax(200px,310px) minmax(180px, 260px) minmax(180px, 220px);
     gap: 10px;
     grid-template-areas:
         "box-1 box-1 box-1 box-1"
